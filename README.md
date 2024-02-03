@@ -20,3 +20,10 @@ yunlayer反代（有香港cn2线路):
 
 mc-piston-meta.lqjpan.top
 
+mc-piston-data\_2.lqjpan.top
+
+mc-resources.lqjpan.top
+
+mc-libraries.lqjpan.top
+
+mc-launchermeta.lqjpan.top
